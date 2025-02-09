@@ -1,0 +1,24 @@
+body
+{
+    background-image: url('guess.avif');
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-position:0cap
+}
+.one
+{
+    align-items: center;
+    color: white;
+    margin-top:5%;
+   
+}
+div{
+    width: 300px;
+    border: 10px solid rgba(255,255,255,5);
+    padding: 35px;
+    margin: 10px;
+    background: transparent ;
+    position: relative;
+    backdrop-filter: blur(30px);
+    border-radius:20px;
+}
